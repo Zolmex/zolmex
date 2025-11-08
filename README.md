@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Zolmex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolmex&show_icons=true&theme=dark)
 
 <!--
