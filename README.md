@@ -1,4 +1,4 @@
-![Zolmex's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolmex&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Zolmex&rank_icon=percentile&custom_title=Public%20repository%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Zolmex&rank_icon=percentile&custom_title=Public%20repository%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
 
 <!--
 **Zolmex/zolmex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
